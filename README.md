@@ -25,9 +25,6 @@ Designed to allow additional models or evaluation metrics with minimal modificat
   - numpy
   - pandas
 
-## **Install the required packages with:**
-  - pip install -r requirements.txt
-
 
 ## **Code Explanation**
 For each model, the repository follows a consistent evaluation process:
