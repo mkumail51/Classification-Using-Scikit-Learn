@@ -2,11 +2,14 @@
 
 This repository demonstrates how to implement and evaluate multiple classification models using Python's scikit-learn library. It showcases best practices for splitting your data, generating predictions on unseen data, and comparing model performance using the accuracy score.
 This project implements several classification models on a common dataset. Each model is trained on a training set and evaluated on a separate test set. In this repository, we include:
-
-**Logistic Regression Classifier:** A baseline linear model.
-**Decision Tree Classifier:** A non-linear model that makes decisions by splitting data based on feature thresholds.
-**Random Forest Classifier:** An ensemble model that builds multiple decision trees and averages their predictions.
-**Gradient Boosting Classifier:** An ensemble method that builds models sequentially, where each model attempts to correct the errors of its predecessor.
+### Logistic Regression Classifier:
+A baseline linear model.
+### Decision Tree Classifier:
+A non-linear model that makes decisions by splitting data based on feature thresholds.
+### **Random Forest Classifier:** 
+An ensemble model that builds multiple decision trees and averages their predictions.
+### **Gradient Boosting Classifier:** 
+An ensemble method that builds models sequentially, where each model attempts to correct the errors of its predecessor.
 
 ## **Features**
 **Multiple Model Implementations:** Easily compare different classification approaches.
