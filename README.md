@@ -1,4 +1,4 @@
-**Classification Using Scikit Learn**
+# **Classification Using Scikit Learn**
 
 This repository demonstrates how to implement and evaluate multiple classification models using Python's scikit-learn library. It showcases best practices for splitting your data, generating predictions on unseen data, and comparing model performance using the accuracy score.
 
