@@ -15,11 +15,11 @@ This project implements several classification models on a common dataset. Each 
 **Consistent Evaluation Methodology:** Each model is evaluated using a separate test set where x_test is used to generate predictions and y_test provides the true labels.
 **Extensible Codebase:** Designed to allow additional models or evaluation metrics with minimal modifications.
 
-Prerequisites
-Python 3.6 or higher
-scikit-learn
-numpy
-pandas
+**Prerequisites:**
+  - Python 3.6 or higher
+  - scikit-learn
+  - numpy
+  - pandas
 
 **Install the required packages with:**
   - pip install -r requirements.txt
@@ -44,8 +44,8 @@ An ensemble method that constructs multiple decision trees and aggregates their 
 **4. Gradient Boosting Classifier**
 An ensemble technique that builds models sequentially, with each new model correcting errors made by the previous ones.
 
-**Contributing**
+**Contributing:**
 Contributions are welcome! Please fork the repository and submit a pull request for any improvements or additional features. For major changes, open an issue first to discuss what you would like to change
 
-**Contact**
+**Contact:**
 For questions or suggestions, please contact mkumail.abbas51@gmail.com.
